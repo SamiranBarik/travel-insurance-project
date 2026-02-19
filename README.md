@@ -1,1 +1,3 @@
-This is a demo live project of springboot
+# Travel Insurance Project
+
+Spring Boot + PostgreSQL based Travel Insurance Management System.
